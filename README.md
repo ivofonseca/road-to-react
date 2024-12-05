@@ -1,2 +1,2 @@
 # road-to-react
-Learning Reactm following the Road to React by Robin Wieruch
+Learning React following the Road to React by Robin Wieruch
